@@ -1,7 +1,10 @@
 # Data Without Borders: UVRI Multiomics Integration Workshop
 _A Practical Guide for Bench Scientists Moving into Computational Analysis_ 
 
-## Course Description
+## Schedule
+You can find the detailed schedule of the workshop with links to lecture slides and practical notebooks [here](schedule.md).
+
+## Workshop Description
 # Who Is This Workshop For?
 This workshop is designed for researchers who:
 - Have been doing experimental immunology/biology work and now have multi-omics data to analyze
@@ -49,7 +52,7 @@ You don't need to know:
 - Any prior experience with omics-specific packages
 
 # Workshop Materials
-All code, data, and templates will be provided via a GitHub repository. Each session includes:
+All code, data, and templates will be provided via this GitHub repository. Each session includes:
 📋 Step-by-step code with extensive comments
 🔧 Troubleshooting guides for common errors
 📝 Template scripts you can adapt for your own data
