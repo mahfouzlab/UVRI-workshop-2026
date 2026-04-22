@@ -9,7 +9,7 @@
 | 10:15 - 11:15 | (2) Case study data overview + CyTOF data processing tutorial |
 | 11:15 - 12:00 | (3)  Multi-omics research at UVRI |
 | 12:00 - 13:00 | _Lunch_ |
-| 13:00 - 14:00 | (4) Lecture — PCA + PLS-DA |
+| 13:00 - 14:00 | (4) [Lecture — PCA + PLS-DA](Lectures/UVRI_PCA_PLS.pdf) |
 | 14:00 - 14:45 | (5) Practical — PCA |
 | 14:45 - 15:00 | _Break_ |
 | 15:00 - 15:45 | (6) Practical — PLS-DA |
