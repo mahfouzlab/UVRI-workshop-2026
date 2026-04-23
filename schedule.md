@@ -6,7 +6,7 @@
 | 09:00 - 09:15 | Workshop introduction + housekeeping |
 | 09:15 - 10:00 | (1) [Introduction to data integration](Lectures/UVRI_intro_multiomics_integration.pdf) | 
 | 10:00 - 10:15 | _Break_ |
-| 10:15 - 11:15 | (2) Case study data overview + CyTOF data processing tutorial |
+| 10:15 - 11:15 | (2) [Case study data overview + CyTOF data processing tutorial](Lectures/UVRI_IntroCytof_CaseStudy) |
 | 11:15 - 12:00 | (3)  Multi-omics research at UVRI |
 | 12:00 - 13:00 | _Lunch_ |
 | 13:00 - 14:00 | (4) [Lecture — PCA + PLS-DA](Lectures/UVRI_PCA_PLS.pdf) |
