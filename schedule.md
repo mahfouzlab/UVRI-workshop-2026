@@ -21,10 +21,10 @@
 | ------------- | ------------- | 
 | 09:00 - 10:00 | (1) Introduction to Single-cell Genomics | 
 | 10:00 - 10:15 | _Break_ |
-| 10:15 - 11:00 | (2) Lecture – DIABLO|
+| 10:15 - 11:00 | (2) [Lecture – DIABLO](Lectures/UVRI_DIABLO.pdf)|
 | 11:00 - 12:00 | (3) Practical – DIABLO |
 | 12:00 - 13:00 | _Lunch_ |
-| 13:00 - 13:45 | (4) Lecture — MOFA |
+| 13:00 - 13:45 | (4) [Lecture — MOFA](Lectures/UVRI_MOFA.pdf) |
 | 13:45 - 14:45 | (5) Practical — MOFA |
 | 14:45 - 15:00 | _Break_ |
 | 15:00 - 15:30 | (6) Practical — MOFA (continued) |
