@@ -19,7 +19,7 @@
 ### Day 2 (Thursday 23.04.2026)
 | Time | Title | 
 | ------------- | ------------- | 
-| 09:00 - 10:00 | (1) Introduction to Single-cell Genomics | 
+| 09:00 - 10:00 | (1) [Single-cell & spatial genomics](Lectures/UVRI_singlecell.pdf) | 
 | 10:00 - 10:15 | _Break_ |
 | 10:15 - 11:00 | (2) [Lecture – DIABLO](Lectures/UVRI_DIABLO.pdf)|
 | 11:00 - 12:00 | (3) Practical – DIABLO |
